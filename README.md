@@ -4,7 +4,7 @@
 ✉️ Contact: ahmalaaeldin@std.mans.edu.eg
 
 - 🌱 I’m currently learning **Data Science**
-- 
+
 <hr style="border: 3px solid black;">
 
 
